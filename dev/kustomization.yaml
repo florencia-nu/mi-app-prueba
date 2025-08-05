@@ -1,4 +1,5 @@
 resources:
-  - deployment.yaml
-  - service.yaml
+  - app/deployment.yaml
+  - app/service.yaml
+  - monitoring/prometheus-grafana/prometheus/templates
 namespace: dev
