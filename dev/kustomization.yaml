@@ -1,4 +1,4 @@
 resources:
-  - app/deployment.yaml
-  - app/service.yaml
+  - deployment.yaml
+  - service.yaml
 namespace: dev
