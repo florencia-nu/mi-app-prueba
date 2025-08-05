@@ -1,5 +1,5 @@
 resources:
   - app/deployment.yaml
   - app/service.yaml
-  - monitoring/prometheus-grafana/prometheus/templates
+  - monitoring/prometheus-grafana/kube-prometheus-stack
 namespace: dev
